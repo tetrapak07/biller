@@ -1,5 +1,5 @@
 {
-    "name": "frangeris/biller",
+    "name": "tetrapak07/billerstr",
     "type": "library",
     "description": "Stripe subscription billing services for PhalconPHP",
     "keywords": ["phalcon", "stripe", "billing", "subscriptions", "customers"],
